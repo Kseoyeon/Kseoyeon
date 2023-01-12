@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-![Kseoyeon's github stats](https://github-readme-stats.vercel.app/api?username=Kseoyeon&show_icons=true)
+<!--![Kseoyeon's github stats](https://github-readme-stats.vercel.app/api?username=Kseoyeon&show_icons=true)-->
 
+[![Kseoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kseoyeon)](https://github.com/Kseoyeon/github-readme-stats)
