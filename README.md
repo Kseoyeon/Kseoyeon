@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  ![Kseoyeon's github stats](https://github-readme-stats.vercel.app/api?username=Kseoyeon&show_icons=true)
+![Kseoyeon's github stats](https://github-readme-stats.vercel.app/api?username=Kseoyeon&show_icons=true)
 </p>
