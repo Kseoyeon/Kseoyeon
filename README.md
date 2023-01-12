@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<p align="center">
 ![Kseoyeon's github stats](https://github-readme-stats.vercel.app/api?username=Kseoyeon&show_icons=true)
-</p>
+
